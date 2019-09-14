@@ -1,4 +1,6 @@
 <?php
+
+phpinfo(); exit;
     require "lib/nusoap.php";
     require "functions.php";
     
